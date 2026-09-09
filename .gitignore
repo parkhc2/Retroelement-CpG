@@ -1,0 +1,5 @@
+# raw downloads (fetch with scripts/00_download_raw.sh)
+data/
+__pycache__/
+*.pyc
+.claude/
